@@ -1,0 +1,13 @@
+.game-grid {
+    -fx-background-color: white ;
+}
+.game-grid-cell-alive {
+    -fx-background-color: black;
+}
+.game-grid-cell-dead {
+    -fx-background-color: lightgrey, white;
+    -fx-background-insets: 0, 0 1 1 0 ;
+}
+.game-grid-cell-border {
+    -fx-background-color: black;
+}
